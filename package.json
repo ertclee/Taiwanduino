@@ -1,6 +1,7 @@
 {
   "packages": [
     {
+      "name":"Taiwanduino",
       "maintainer": "Taiwanduino",
       "help": {
         "online": "https://github.com/will127534/Taiwanduino"

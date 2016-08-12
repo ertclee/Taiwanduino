@@ -11,7 +11,7 @@
         {
           "category": "Taiwanduino",
           "help": {
-            "online": "https://forums.adafruit.com"
+            "online": "https://github.com/will127534/Taiwanduino"
           },
           "url": "https://will127534.github.io/Taiwanduino/Taiwanduino.tar.bz2",
           "checksum": "SHA-256:f913920996ec35fc3e22743842af74e59a997fa5b518f46ab5dcc5501d62231b",
@@ -32,8 +32,8 @@
         }
       ],
       "tools": [],
-      "email": "",
-      "name": ""
+      "email": "test@test.com",
+      "name": "test"
     }
   ]
 }
